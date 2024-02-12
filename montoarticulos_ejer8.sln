@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "montoarticulos_ejer9", "montoarticulos_ejer8\montoarticulos_ejer9.csproj", "{9891BD7A-9C0D-46E5-8543-CF813AF8D8A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9891BD7A-9C0D-46E5-8543-CF813AF8D8A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9891BD7A-9C0D-46E5-8543-CF813AF8D8A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9891BD7A-9C0D-46E5-8543-CF813AF8D8A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9891BD7A-9C0D-46E5-8543-CF813AF8D8A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF500819-031B-4293-8FE8-215E1569E3E9}
+	EndGlobalSection
+EndGlobal
